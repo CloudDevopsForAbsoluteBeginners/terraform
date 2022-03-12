@@ -6,6 +6,6 @@ resource "aws_instance" "myfirstec2" {
 
 provider "aws" {
   region = "ap-south-1"
-  access_key = "AKIA5JZ3KH5CLBPSX6BC"
-  secret_key = "qyTbkV4Kv9/VykWmi2aGDS0OkgRvrCCSBrvz7GF3"
+  access_key = "your access key"
+  secret_key = "your secret key"
 }
